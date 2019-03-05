@@ -1,0 +1,92 @@
+.manhattan{
+    color:yellow;
+    text-align:center;
+    font-size:16pt;
+    font-weight:normal;
+    text-shadow: 3px 3px purple;
+    padding-top:10px;
+    border:groove purple 10px;
+    font-family: 'Spicy Rice', cursive;
+    
+}
+.times_square{
+   background-image: url(" https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/NYC_-_Time_Square_-_From_upperstairs.jpg/1200px-NYC_-_Time_Square_-_From_upperstairs.jpg");                                              width:1000px;
+    height:700px;
+    color:yellow;
+    height:500px;
+    text-align:center;
+    font-size:16pt;
+    font-weight:normal;
+    text-shadow: 3px 3px purple;
+    padding-top:10px;
+    border:groove purple 10px;
+    font-family: 'Spicy Rice', cursive;
+    
+}
+.brooklynmuseumofart{
+    background-image: url("https://media.newyorker.com/photos/59096dff019dfc3494ea1c02/16:9/w_1200,h_630,c_limit/Scott-Newly-Appointed-Director-of-the-Brooklyn-Museum-2.jpg");
+    width:1000px;
+    height:700px;
+    color:yellow;
+    height:500px;
+    text-align:center;
+    font-size:16pt;
+    font-weight:normal;
+    text-shadow: 3px 3px purple;
+    padding-top:10px;
+    border:groove purple 10px;
+    font-family: 'Spicy Rice', cursive;
+    
+}
+.yankeestadium{
+background-image:url("https://www.wheretraveler.com/sites/default/files/styles/wt17_promoted_large/public/images/YANKEE%20STADIUM_OVE%23747D12.jpg?itok=HHANxzGc&timestamp=1451406398");
+width:600px;
+height:600px;width:1000px;
+   
+}
+
+.JFK{
+background-image:url("https://www.airport-jfk.com/images/american-airlines-jetblue-at-airport-jfk.jpg");
+color:blue;
+width:600px;
+height:600px;     
+
+}
+.SouthBeach{
+ background-image:url("http://media.silive.com/latest_news/photo/9918245-large.jpg");
+ width:380px;
+ height:268px;
+  
+}
+.CentralPark{
+  background-image:url(https://www.centralpark.com/downloads/1872/download/a-walk-in-the-park.jpe?cb=783665e2e86dabe11fdbe675f24e26c4&w=-1); 
+ 
+ width:900px;
+ height:650px;
+}
+
+    
+    .empire{
+       background-image:url(https://pbs.twimg.com/profile_images/959452636037730304/tyNdnk5v_400x400.jpg);
+ width:400px;
+ height:400px; 
+    }
+    
+    
+    
+    
+ body{
+   background-color:red;  
+ }
+    
+.bronx{
+    background-image:url("https://i0.wp.com/downtownhershey.com/wp-content/uploads/2018/07/Bronx-zoo-entrance.jpg?fit=650%2C409");
+} 
+ .zoo{
+     background-image:url("https://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/502750-iStock-481081761.jpg?itok=7nQtjWry&resize=1100x1100");
+     width:650px;
+     height:409px;
+ 
+ }
+    
+    
